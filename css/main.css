@@ -3061,6 +3061,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-exhibition img {
+    height: 250px;
+    object-fit: cover;
     border-radius: 10px;
     margin-bottom: 15px;
 }
